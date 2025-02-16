@@ -1,0 +1,2 @@
+# Dictionary
+Thonny, by encoding
